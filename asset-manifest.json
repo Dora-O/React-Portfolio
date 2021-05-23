@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.d55fb19a.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.81c24566.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.81c24566.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.264add50.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.264add50.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.8e19d3e9.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.8e19d3e9.js.map",
     "static/css/2.61b4cb56.chunk.css": "/React-Portfolio/static/css/2.61b4cb56.chunk.css",
@@ -13,6 +13,7 @@
     "static/css/main.d55fb19a.chunk.css.map": "/React-Portfolio/static/css/main.d55fb19a.chunk.css.map",
     "static/js/2.65ae8e43.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.65ae8e43.chunk.js.LICENSE.txt",
     "static/media/IMG_4061.25cdc93a.JPG": "/React-Portfolio/static/media/IMG_4061.25cdc93a.JPG",
+    "static/media/Resume.b53e7889.pdf": "/React-Portfolio/static/media/Resume.b53e7889.pdf",
     "static/media/avengers-unite.29d20f37.png": "/React-Portfolio/static/media/avengers-unite.29d20f37.png",
     "static/media/code-quiz.79e4c8e4.png": "/React-Portfolio/static/media/code-quiz.79e4c8e4.png",
     "static/media/employee-directory.51e33634.png": "/React-Portfolio/static/media/employee-directory.51e33634.png",
@@ -26,6 +27,6 @@
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.65ae8e43.chunk.js",
     "static/css/main.d55fb19a.chunk.css",
-    "static/js/main.81c24566.chunk.js"
+    "static/js/main.264add50.chunk.js"
   ]
 }
