@@ -12,7 +12,7 @@ Project section shows six projects each with a link to the deployed site, screen
 
 
 ## Deployed Site
-
+[React Portfolio](https://dora-o.github.io/React-Portfolio/)
 
 
 ## Screenshots

@@ -17,7 +17,7 @@
     "react-scroll": "^1.8.2",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://dora-o.github.io/react-portfolio",
+  "homepage": "https://dora-o.github.io/React-Portfolio/",
   "scripts": {
     "predeploy": "npm run build",
    "deploy": "gh-pages -d build",
