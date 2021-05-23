@@ -16,7 +16,7 @@ function Contact ({ theme }){
         <div className="row align-items-center">
           <div className="col-md-4"><a href="https://www.linkedin.com/in/dora-orozco-3332771b/" target="_blank" rel="noreferrer">LinkedIn</a></div>
           <div className="col-md-4"><a href="https://github.com/Dora-O" target="_blank" rel="noreferrer">GitHub</a></div>
-          <div className="col-md-4"><a href="../../assets/Resume.pdf" download="../../assets/Resume.pdf">Resume</a></div>
+          <div className="col-md-4"><a href="../../assets/Resume.pdf" download>Resume</a></div>
         </div>
         <div>
           <Link className="scroll" to="about" smooth={true} duration={750}>
